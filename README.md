@@ -16,8 +16,8 @@ A simple Discord bot that responds to all messages using OpenAI's GPT model.
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/discord-openai-chat-bot.git
-cd discord-openai-chat-bot
+git clone https://github.com/geekhostuk/Botty.git
+cd Botty
 ```
 
 ### 2. Install Dependencies
@@ -128,6 +128,10 @@ python bot.py
 - The bot will reply to every message it can see, except its own.
 
 ---
+
+## Repository
+
+This project is hosted at [https://github.com/geekhostuk/Botty](https://github.com/geekhostuk/Botty)
 
 ## License
 
